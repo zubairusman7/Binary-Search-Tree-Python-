@@ -1,5 +1,7 @@
 ##  Binary Search Tree (BST) Python Implementation !!!
 
+#  test comment 2
+
 class Node:
     """ Node Class (which is hidden from the user)"""
     def __init__(self, val):
